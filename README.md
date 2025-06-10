@@ -3,8 +3,8 @@
 This Flutter project demonstrates a beautiful **3D image carousel** with interactive animations and a **Netflix-style cover flow effect**.
 
 <p align="center">
-  <img src="assets/images/portrait.jpg" />
-  <img src="assets/images/landscape.jpg" />
+  <img src="assets/images/portrait.jpg" height="500"/>
+  <img src="assets/images/landscape.jpg" width="300" />
 </p>
 
 ---
