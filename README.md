@@ -26,7 +26,7 @@ State management is handled using Flutter's native `StatefulWidget` and `setStat
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/flutter_3d_carousel_slider.git
+   git clone https://github.com/Aryan-Singh02/3d_carousel_slider_flutter.git
    cd flutter_3d_carousel_slider
 
 2. **Install dependencies**
